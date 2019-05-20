@@ -1,0 +1,993 @@
+2172548,262,canine protoparvovirus
+2170405,335,panthera leo polyomavirus 1
+2170403,337,canis lupus polyomavirus 1
+2107574,958,domestic cat hepadnavirus
+2093270,1067,canine bocavirus 2
+2077308,1310,leptonychotes weddellii papillomavirus 7
+2077307,1311,leptonychotes weddellii papillomavirus 6
+2077306,1312,leptonychotes weddellii papillomavirus 5
+2077305,1313,leptonychotes weddellii papillomavirus 4
+2077304,1314,leptonychotes weddellii papillomavirus 3
+2077303,1315,leptonychotes weddellii papillomavirus 2
+2077302,1316,leptonychotes weddellii papillomavirus 1
+2070151,1593,california sea lion norovirus
+2067749,1851,felis catus adenovirus
+2065043,2273,torque teno felis virus 2
+2052478,3320,influenza a virus (a/canine/china/jlm2/2015(h3n2))
+2052477,3321,influenza a virus (a/canine/china/jlm1/2015(h3n2))
+2050877,4012,influenza a virus (a/canine/china/lg2/2015(h3n2))
+2050876,4013,influenza a virus (a/canine/china/lg1/2015(h3n2))
+2048717,4492,influenza a virus (a/canine/guangxi/wz2/2013(h1n1))
+2048716,4493,influenza a virus (a/canine/guangxi/wz11/2013(h1n1))
+2048715,4494,influenza a virus (a/canine/guangxi/wz1/2013(h1n1))
+2048714,4495,influenza a virus (a/canine/guangxi/qz5/2013(h1n1))
+2048713,4496,influenza a virus (a/canine/guangxi/px11/2014(h1n1))
+2048712,4497,influenza a virus (a/canine/guangxi/nntw15/2015(h1n1))
+2048711,4498,influenza a virus (a/canine/guangxi/nn45/2014(h1n2))
+2048710,4499,influenza a virus (a/canine/guangxi/lz56/2015(h1n1))
+2048709,4500,influenza a virus (a/canine/guangxi/lz52/2015(h1n1))
+2048708,4501,influenza a virus (a/canine/guangxi/lz45/2015(h3n2))
+2048707,4502,influenza a virus (a/canine/guangxi/lz36/2015(h1n1))
+2048706,4503,influenza a virus (a/canine/guangxi/lz317/2013(h1n1))
+2048705,4504,influenza a virus (a/canine/guangxi/lz21/2015(h1n1))
+2048704,4505,influenza a virus (a/canine/guangxi/lz20/2015(h1n1))
+2048703,4506,influenza a virus (a/canine/guangxi/hc18/2013(h1n1))
+2048702,4507,influenza a virus (a/canine/guangxi/dx29/2013(h1n1))
+2040287,5886,influenza a virus (a/mink/china/02/2014(h9n2))
+2040286,5887,influenza a virus (a/mink/china/01/2014(h9n2))
+2038753,5961,influenza a virus (a/feline/new york/wvdl-9/2016(h7n2))
+2038752,5962,influenza a virus (a/feline/new york/wvdl-3/2016(h7n2))
+2038751,5963,influenza a virus (a/feline/new york/wvdl-20/2016(h7n2))
+2038750,5964,influenza a virus (a/feline/new york/wvdl-16/2016(h7n2))
+2038749,5965,influenza a virus (a/feline/new york/wvdl-14/2016(h7n2))
+2025339,7906,felis catus papillomavirus type 5,VHostDB
+2023342,8313,marten adenovirus type 2
+2023337,8314,marten adenovirus type 1
+2021955,8454,barns ness dog whelk narna-like virus 1
+2021949,8459,barns ness dog whelk orthomyxo-like virus 1
+2021945,8460,caledonia dog whelk rhabdo-like virus 2
+2021944,8461,caledonia dog whelk rhabdo-like virus 1
+2021932,8464,caldedonia dog whelk bunya/orthobunya-like virus 1
+2021931,8465,barns ness dog whelk bunya/arena-like virus 1
+2017717,9318,lupine feces-associated densovirus
+2017716,9319,lupine feces-associated densovirus 2
+2017714,9320,lupine bocavirus
+2017711,9322,lupine feces-associated gemycircularvirus 1
+2017710,9323,lupine feces-associated gemycircularvirus 2
+2017709,9324,canine feces-associated gemycircularvirus
+2016468,9350,pansavirus 2,VHostDB
+2016467,9351,pansavirus 1,VHostDB
+2016463,9352,giant panda polyomavirus,VHostDB
+2016462,9353,giant panda associated partiti-like virus
+2016461,9354,giant panda associated gemycircularvirus,VHostDB
+2016460,9355,giant panda anellovirus,VHostDB
+2016459,9356,giant panda circovirus 4,VHostDB
+2016458,9357,giant panda circovirus 3,VHostDB
+2016457,9358,giant panda circovirus 2,VHostDB
+2016456,9359,giant panda circovirus 1,VHostDB
+2016455,9360,ailuropoda melanoleuca papillomavirus 2,VHostDB
+2016454,9361,ailuropoda melanoleuca papillomavirus 1,VHostDB
+2016453,9362,ailuropoda melanoleuca papillomavirus 4,VHostDB
+2016448,9367,aimelvirus 2,VHostDB
+2013564,9906,fur seal picorna-like virus,VHostDB
+2012677,9962,torque teno leptonychotes weddellii virus-2,VHostDB
+2012676,9963,torque teno leptonychotes weddellii virus-1,VHostDB
+2005658,11383,influenza a virus (a/canine/vermont/278213/2013(h3n8))
+2005657,11384,influenza a virus (a/canine/texas/2100186/2015(h3n2))
+2005656,11385,influenza a virus (a/canine/south korea/0173915/2015(h3n2))
+2005655,11386,influenza a virus (a/canine/pennsylvania/96978/2009(h3n8))
+2005654,11387,influenza a virus (a/canine/pennsylvania/0261885/2015(h3n2))
+2005653,11388,influenza a virus (a/canine/north carolina/103297/2015(h3n2))
+2005652,11389,influenza a virus (a/canine/new york/3699/2010(h3n8))
+2005651,11390,influenza a virus (a/canine/new york/1623.1/2010(h3n8))
+2005650,11391,influenza a virus (a/canine/new york/159903/2012(h3n8))
+2005649,11392,influenza a virus (a/canine/maine/058124/2016(h3n8))
+2005648,11393,influenza a virus (a/canine/indiana/2093681/2015(h3n2))
+2005647,11394,influenza a virus (a/canine/indiana/17031-16-2/2016(h3n2))
+2005646,11395,influenza a virus (a/canine/indiana/132276-16-1-2/2016(h3n2))
+2005645,11396,influenza a virus (a/canine/indiana/1177-17-1/2017(h3n2))
+2005644,11397,influenza a virus (a/canine/indiana/093165-16-1-1/2016(h3n2))
+2005643,11398,influenza a virus (a/canine/indiana/003018/2016(h3n2))
+2005642,11399,influenza a virus (a/canine/illinois/i0182389/2015(h3n2))
+2005641,11400,influenza a virus (a/canine/illinois/41915/2015(h3n2))
+2005640,11401,influenza a virus (a/canine/illinois/328292/2015(h3n2))
+2005639,11402,influenza a virus (a/canine/illinois/283066/2015(h3n2))
+2005638,11403,influenza a virus (a/canine/illinois/278597/2016(h3n2))
+2005637,11404,influenza a virus (a/canine/illinois/20170110-1a4/2016(h3n2))
+2005635,11405,influenza a virus (a/canine/illinois/145135-16-3-1/2016(h3n2))
+2005634,11406,influenza a virus (a/canine/illinois/091375-16-1-1/2016(h3n2))
+2005633,11407,influenza a virus (a/canine/illinois/077753/2016(h3n2))
+2005632,11408,influenza a virus (a/canine/illinois/077752/2016(h3n2))
+2005629,11409,influenza a virus (a/canine/georgia/101875/2015(h3n2))
+2005628,11410,influenza a virus (a/canine/florida/269770/2015(h3n2))
+2005627,11411,influenza a virus (a/canine/florida/15592.1/2004(h3n8))
+2005626,11412,influenza a virus (a/canine/connecticut/85863/2011(h3n8))
+1987742,12180,feline associated cyclovirus 1
+1986024,12574,sea lion mastadenovirus a
+1985425,12723,canine associated gemygorvirus 1
+1985380,12764,fur seal associated gemycircularvirus 1
+1980633,13778,canis familiaris polyomavirus 1,VHostDB
+1978920,14272,raccoon-associated polyomavirus 2,VHostDB
+1977644,14668,influenza a virus (a/feline/new york/16-040082-1/2016(h7n2))
+1961162,16369,picobirnavirus dog/kna/2015,VHostDB
+1961072,16371,skunk amdoparvovirus,VHostDB
+1928473,20178,felis catus papillomavirus
+1925019,20576,leptonychotes weddellii polyomavirus 1,VHostDB
+1922711,21958,beihai tiger crab virus 1,VHostDB
+1913642,23898,mink coronavirus 1
+1908805,25290,amdoparvovirus sp.,VHostDB
+1906351,25744,sea otter herpesvirus
+1903251,25919,influenza a virus (a/mink/china/xb/2015(h5n1))
+1903250,25920,influenza a virus (a/mink/china/g/2015(h5n1))
+1899573,25943,canine papillomavirus 19
+1891972,26658,mink bocavirus,VHostDB
+1891775,26664,zalophus californianus polyomavirus 1
+1891742,26696,procyon lotor polyomavirus 1
+1882383,28051,sea otter adenovirus 1
+1882382,28052,sea otter parvovirus 1,VHostDB
+1874660,28525,influenza a virus (a/canine/wisconsin/19137/2016(h3n2))
+1874659,28526,influenza a virus (a/canine/texas/343907/2015(h3n2))
+1874658,28527,influenza a virus (a/canine/north carolina/109904/2015(h3n2))
+1874657,28528,influenza a virus (a/canine/massachusetts/26810/2016(h3n8))
+1874656,28529,influenza a virus (a/canine/korea/0589318/2015(h3n2))
+1874655,28530,influenza a virus (a/canine/indiana/96198/2015(h3n2))
+1874654,28531,influenza a virus (a/canine/illinois/2883703/2015(h3n2))
+1874653,28532,influenza a virus (a/canine/illinois/1619144/2015(h3n2))
+1874652,28533,influenza a virus (a/canine/illinois/0843093/2015(h3n2))
+1874651,28534,influenza a virus (a/canine/georgia/95391/2015(h3n2))
+1874650,28535,influenza a virus (a/canine/georgia/104940/2015(h3n2))
+1871263,28774,influenza a virus (a/feline/korea/fy057/2014(h3n2))
+1871262,28775,influenza a virus (a/canine/korea/cy053/2014(h3n2))
+1861840,30379,feline anellovirus
+1843776,31199,canis familiaris papillomavirus 20
+1843735,31229,faeces associated gemycircularvirus 15,VHostDB
+1836608,31882,canine kobuvirus,VHostDB
+1834535,32223,marten betaherpesvirus
+1834531,32226,marten gammaherpesvirus 2
+1834530,32227,marten gammaherpesvirus 1
+1834529,32228,marten alphaherpesvirus
+1816242,33527,canis familiaris papillomavirus 18
+1796018,34744,pacific flying fox faeces associated circular dna virus-9
+1796017,34745,pacific flying fox faeces associated circular dna virus-8
+1796016,34746,pacific flying fox faeces associated circular dna virus-7
+1796015,34747,pacific flying fox faeces associated circular dna virus-6
+1796014,34748,pacific flying fox faeces associated circular dna virus-5
+1796013,34749,pacific flying fox faeces associated circular dna virus-4
+1796012,34750,pacific flying fox faeces associated circular dna virus-3
+1796011,34751,pacific flying fox faeces associated circular dna virus-2
+1796010,34752,pacific flying fox faeces associated circular dna virus-15
+1796009,34753,pacific flying fox faeces associated circular dna virus-14
+1796008,34754,pacific flying fox faeces associated circular dna virus-13
+1796007,34755,pacific flying fox faeces associated circular dna virus-12
+1796006,34756,pacific flying fox faeces associated circular dna virus-11
+1796005,34757,pacific flying fox faeces associated circular dna virus-10
+1796004,34758,pacific flying fox faeces associated circular dna virus-1
+1796003,34759,pacific flying fox associated multicomponent virus
+1796001,34760,pacific flying fox faeces associated gemycircularvirus-9
+1796000,34761,pacific flying fox faeces associated gemycircularvirus-8
+1795999,34762,pacific flying fox faeces associated gemycircularvirus-7
+1795998,34763,pacific flying fox faeces associated gemycircularvirus-6
+1795997,34764,pacific flying fox faeces associated gemycircularvirus-5
+1795996,34765,pacific flying fox faeces associated gemycircularvirus-4
+1795995,34766,pacific flying fox faeces associated gemycircularvirus-3
+1795994,34767,pacific flying fox faeces associated gemycircularvirus-2
+1795993,34768,pacific flying fox faeces associated gemycircularvirus-14
+1795992,34769,pacific flying fox faeces associated gemycircularvirus-13
+1795991,34770,pacific flying fox faeces associated gemycircularvirus-12
+1795990,34771,pacific flying fox faeces associated gemycircularvirus-11
+1795989,34772,pacific flying fox faeces associated gemycircularvirus-10
+1795988,34773,pacific flying fox faeces associated gemycircularvirus-1
+1795985,34774,pacific flying fox associated cyclovirus-3
+1795984,34775,pacific flying fox associated cyclovirus-2
+1795983,34776,pacific flying fox associated cyclovirus-1
+1792585,34972,feline mamastrovirus
+1792584,34973,feline avastrovirus
+1778550,36310,canis familiaris papillomavirus 17
+1761663,37782,norovirus cat/gvi.2/te/77-13/ita
+1718160,42304,influenza a virus (a/feline/guangdong/2/2015(h5n6))
+1718159,42305,influenza a virus (a/feline/guangdong/1/2015(h5n6))
+1708572,43154,phopivirus,VHostDB
+1706831,43315,lynx rufus gammaherpesvirus 2
+1706830,43316,leopardus pardalis gammaherpesvirus 1
+1679502,45303,feline papillomavirus type 3
+1678251,45353,fox circovirus
+1662431,46424,influenza a virus (a/canine/illinois/12191/2015(h3n2))
+1661650,46488,influenza a virus (a/canine/jembrana/18/2006(h5n1))
+1661649,46489,influenza a virus (a/canine/buleleng/21/2006(h5n1))
+1661648,46490,influenza a virus (a/canine/buleleng/14/2006(h5n1))
+1643817,48713,influenza a virus (a/canine/korea/dg1/2014(h3n2))
+1643816,48714,influenza a virus (a/canine/korea/bd-1/2013(h3n2))
+1641642,48960,skunk adenovirus pb1,VHostDB
+1639825,49285,bovine papillomavirus type 14,VHostDB
+1637496,49545,rotavirus i,VHostDB
+1634488,49797,mongoose feces-associated gemycircularvirus c,VHostDB
+1634487,49798,mongoose feces-associated gemycircularvirus d,VHostDB
+1634486,49799,mongoose feces-associated gemycircularvirus b,VHostDB
+1634485,49800,mongoose feces-associated gemycircularvirus a,VHostDB
+1634484,49801,badger associated gemykibivirus 1,VHostDB
+1631661,49921,feline calicivirus sh
+1619253,50832,canis familiaris papillomavirus 16,VHostDB
+1615583,50948,vesivirus ferret badger/jx12/china/2012,VHostDB
+1608323,53137,meles meles polyomavirus 1,VHostDB
+1601802,53936,influenza a virus (a/canine/ny/105447/2008(h3n8))
+1580883,59159,norovirus cat/rj1018/bra/2014
+1579498,59313,feline paramyxovirus msi-2014
+1572187,61108,influenza a virus (a/canine/korea/s1/2012(h3n2))
+1566012,61688,seal anellovirus 6,VHostDB
+1566011,61689,seal anellovirus 4,VHostDB
+1566010,61690,seal anellovirus 5
+1566009,61691,seal anellovirus 7,VHostDB
+1564920,61721,ferret badger calicivirus
+1552409,62574,sea otter polyomavirus 1,VHostDB
+1545834,62864,influenza a virus (a/mink/shandong/f6/2013(h9n2))
+1545833,62865,influenza a virus (a/mink/shandong/f10/2013(h9n2))
+1544876,62877,influenza a virus (a/canine/korea/vc378/2012(h3n2))
+1544875,62878,influenza a virus (a/canine/korea/vc125678/2012(h3n1))
+1544874,62879,influenza a virus (a/canine/korea/vc123578/2012(h3n2))
+1538452,63569,feline astrovirus d1,VHostDB
+1536683,63715,influenza a virus (a/canine/vt/2782/2013(h3n8))
+1536682,63716,influenza a virus (a/canine/vt/11039/2013(h3n8))
+1536681,63717,influenza a virus (a/canine/pa/96978/2009(h3n8))
+1536680,63718,influenza a virus (a/canine/pa/33225.4/2010(h3n8))
+1536679,63719,influenza a virus (a/canine/pa/27637.3/2010(h3n8))
+1536678,63720,influenza a virus (a/canine/pa/111788.2/2009(h3n8))
+1536677,63721,influenza a virus (a/canine/ny/3699/2010(h3n8))
+1536676,63722,influenza a virus (a/canine/ny/1623.1/2010(h3n8))
+1536675,63723,influenza a virus (a/canine/ny/159903/2012(h3n8))
+1536674,63724,influenza a virus (a/canine/ny/133/2010(h3n8))
+1536673,63725,influenza a virus (a/canine/ny/120106.2/2011(h3n8))
+1536672,63726,influenza a virus (a/canine/ct/85863/2011(h3n8))
+1530454,63996,feline cyclovirus,VHostDB
+1522656,64746,influenza a virus (a/canine/taiwan/e01/2014(h6n1))
+1519097,65120,sesavirus csl10538,VHostDB
+1516078,65497,mink avastrovirus
+1513315,66046,raccoon dog amdovirus,VHostDB
+1513314,66047,arctic fox amdovirus
+1513269,66061,canis familiaris papillomavirus 6,VHostDB
+1511885,66492,canine bocavirus 1,VHostDB
+1510515,66597,influenza a virus (a/feline/heilongjiang/zh/2014(h3n2))
+1504569,67245,fox fecal rhabdovirus,VHostDB
+1504567,67246,fox fecal bunyavirus
+1504566,67247,otter fecal bunyavirus
+1504556,67249,fox fecal picobirnavirus
+1504547,67250,fox fecal kobuvirus
+1504545,67252,red fox fecal amdovirus
+1504283,67258,influenza a virus (a/canine/guangdong/04/2013(h3n2))
+1504282,67259,influenza a virus (a/canine/guangdong/03/2013(h3n2))
+1504281,67260,influenza a virus (a/canine/guangdong/02/2014(h3n2))
+1504280,67261,influenza a virus (a/canine/guangdong/02/2013(h3n2))
+1504279,67262,influenza a virus (a/canine/guangdong/01/2014(h3n2))
+1504278,67263,influenza a virus (a/canine/guangdong/01/2013(h3n2))
+1475143,69585,mink circovirus,VHostDB
+1472717,69817,enhydra lutris papillomavirus 1,VHostDB
+1463499,71048,odobenus rosmarus divergens herpesvirus
+1452542,72978,puma concolor gammaherpesvirus 1
+1452541,72979,lynx rufus gammaherpesvirus 1
+1452540,72980,felis catus gammaherpesvirus 1,VHostDB
+1452533,72981,fox kobuvirus
+1442010,73882,influenza a virus (a/canine/guangxi/l2/2013(h3n2))
+1442009,73883,influenza a virus (a/canine/guangxi/l1/2013(h3n2))
+1439705,74024,fur seal cyclovirus
+1436123,74084,influenza a virus (a/feline/guangdong/1/2012(h3n2))
+1427158,75210,seal parvovirus
+1427157,75211,seal anellovirus 2,VHostDB
+1427156,75212,seal anellovirus 3,VHostDB
+1419331,75691,influenza a virus (a/canine/guangdong/23/2012(h3n2))
+1419330,75692,influenza a virus (a/canine/guangdong/12/2012(h3n2))
+1419111,75695,ringed seal herpesvirus
+1419110,75696,hooded seal herpesvirus
+1419109,75697,harp seal herpesvirus
+1417760,75774,feline rotavirus viseu
+1417758,75775,feline picobirnavirus
+1417756,75776,feline bocaparvovirus 2,VHostDB
+1416741,75810,sea otter poxvirus
+1416021,76173,feline sakobuvirus a,VHostDB
+1413815,76244,feline astrovirus viseu,VHostDB
+1408280,76440,feline pneumovirus
+1408279,76441,canine pneumovirus,VHostDB
+1398507,77602,felis catus papillomavirus 4,VHostDB
+1394142,77919,ferret parechovirus,VHostDB
+1394141,77920,ferret papillomavirus,VHostDB
+1394138,77921,ferret kobuvirus
+1391033,78079,faeces associated gemycircularvirus 4,VHostDB
+1389204,78245,feline astrovirus 2,VHostDB
+1379496,79033,feline kobuvirus
+1353954,79877,influenza a virus (a/canine/nanjing/11/2012(h3n2))
+1353241,80120,fur seal faeces associated circular dna virus,VHostDB
+1343682,81411,influenza a virus (a/canine/heilongjiang/l1/2013(h3n2))
+1339211,81626,influenza a virus (a/canine/korea/mv1/2012(h3n2))
+1336600,81696,felis catus papillomavirus 3,VHostDB
+1334275,82220,influenza a virus (a/canine/liaoning/h6/2012(h3n2))
+1334274,82221,influenza a virus (a/canine/liaoning/27/2012(h3n2))
+1328105,83064,fox parvovirus
+1328104,83065,fox astrovirus
+1328057,83066,fox adeno-associated virus
+1328056,83067,fox picobirnavirus
+1328055,83068,fox bocavirus
+1328054,83069,fox astrovirus f4
+1302994,87819,influenza a virus (a/feline/korea/fy029/2010(h3n2))
+1302993,87820,influenza a virus (a/feline/korea/fy028/2010(h3n2))
+1302992,87821,influenza a virus (a/feline/korea/fy027/2010(h3n2))
+1302991,87822,influenza a virus (a/canine/korea/cy009/2010(h3n2))
+1302990,87823,influenza a virus (a/canine/korea/cy005/2010(h3n2))
+1302989,87824,influenza a virus (a/canine/korea/cy001/2010(h3n2))
+1300945,88105,canine kobuvirus 1
+1295080,88765,canine bocavirus 3,VHostDB
+1293082,89029,influenza a virus (a/canine/thailand/cu-dc5299/2012(h3n2))
+1281440,90635,canine kobuvirus ch-1,VHostDB
+1277639,91476,influenza a virus (a/mink/south dakota/a01279427/2012(h1n1))
+1276519,91526,influenza a virus (a/feline/guangdong/1/2011(h3n2))
+1272519,92289,canis familiaris papillomavirus 15,VHostDB
+1264898,92804,ferret coronavirus,VHostDB
+1249509,93677,canine hepacivirus
+1239574,94862,mamastrovirus 10,VHostDB
+1236767,95099,canis familiaris papillomavirus 14,VHostDB
+1231929,95324,influenza a virus (a/canine/korea/kribb01/2011(h3n2))
+1229456,95749,influenza a virus (a/mink/wisconsin/31512-7/2012(h3n2))
+1226723,96637,canis familiaris papillomavirus 13,VHostDB
+1219896,97011,raccoon polyomavirus,VHostDB
+1218490,97138,torque teno zalophus virus 1,VHostDB
+1214138,97675,influenza a virus (a/canine/guangdong/05/2011(h3n2))
+1214137,97676,influenza a virus (a/canine/guangdong/04/2011(h3n2))
+1213422,97758,ferret hepatitis e virus,VHostDB
+1206581,98288,influenza a virus (a/canine/korea/snu9046/2009(h3n2))
+1204536,99178,northern fur seal polyoma virus
+1203314,99816,influenza a virus (a/canine/wyoming/86955/2007(h3n8))
+1203313,99817,influenza a virus (a/canine/south carolina/89215/2009(h3n8))
+1203312,99818,influenza a virus (a/canine/new york/6977983/2010(h3n8))
+1203311,99819,influenza a virus (a/canine/new york/3821631/2011(h3n8))
+1203310,99820,influenza a virus (a/canine/new york/13949315/2011(h3n8))
+1203309,99821,influenza a virus (a/canine/new york/13949306/2011(h3n8))
+1203308,99822,influenza a virus (a/canine/new york/13889381/2011(h3n8))
+1203307,99823,influenza a virus (a/canine/new york/13752393/2011(h3n8))
+1203306,99824,influenza a virus (a/canine/new york/13693247/2011(h3n8))
+1203305,99825,influenza a virus (a/canine/new york/13454104/2011(h3n8))
+1203304,99826,influenza a virus (a/canine/new york/13453967/2011(h3n8))
+1203303,99827,influenza a virus (a/canine/new york/13258337/2011(h3n8))
+1203302,99828,influenza a virus (a/canine/new york/12370090/2011(h3n8))
+1203301,99829,influenza a virus (a/canine/colorado/886050/2010(h3n8))
+1203300,99830,influenza a virus (a/canine/colorado/884753/2010(h3n8))
+1203299,99831,influenza a virus (a/canine/colorado/866907/2010(h3n8))
+1203298,99832,influenza a virus (a/canine/colorado/863160/2010(h3n8))
+1203297,99833,influenza a virus (a/canine/colorado/861997/2010(h3n8))
+1203296,99834,influenza a virus (a/canine/colorado/861142/2010(h3n8))
+1203295,99835,influenza a virus (a/canine/colorado/850078/2009(h3n8))
+1203294,99836,influenza a virus (a/canine/colorado/234550/2009(h3n8))
+1203293,99837,influenza a virus (a/canine/colorado/231256/2007(h3n8))
+1203292,99838,influenza a virus (a/canine/colorado/224766/2006(h3n8))
+1203291,99839,influenza a virus (a/canine/colorado/2025974/2007(h3n8))
+1201158,100178,influenza a virus (a/canine/guangdong/3/2011(h3n2))
+1201157,100179,influenza a virus (a/canine/guangdong/2/2011(h3n2))
+1201156,100180,influenza a virus (a/canine/guangdong/1/2011(h3n2))
+1196647,100501,canine picornavirus,VHostDB
+1194757,100689,canine circovirus,VHostDB
+1194439,100695,influenza a virus (a/canine/liaoning/1585/2010(h3n2))
+1194438,100696,influenza a virus (a/canine/liaoning/1578/2010(h3n2))
+1194437,100697,influenza a virus (a/canine/beijing/511/2010(h3n2))
+1194436,100698,influenza a virus (a/canine/beijing/420/2010(h3n2))
+1194435,100699,influenza a virus (a/canine/beijing/418/2010(h3n2))
+1194434,100700,influenza a virus (a/canine/beijing/364/2009(h3n2))
+1194433,100701,influenza a virus (a/canine/beijing/362/2009(h3n2))
+1194432,100702,influenza a virus (a/canine/beijing/359/2009(h3n2))
+1194431,100703,influenza a virus (a/canine/beijing/305/2009(h3n2))
+1194430,100704,influenza a virus (a/canine/beijing/295/2009(h3n2))
+1194429,100705,influenza a virus (a/canine/beijing/253/2009(h3n2))
+1194428,100706,influenza a virus (a/canine/beijing/1028/2010(h3n2))
+1194330,100711,canis familiaris papillomavirus 12
+1187973,101468,otarine picobirnavirus,VHostDB
+1176484,102019,canine vesivirus,VHostDB
+1176479,102021,norovirus dog/fd210/2007/ita
+1176478,102022,norovirus dog/fd53/2007/ita
+1174985,102167,influenza a virus (a/feline/korea/02/2011(h3n2))
+1174530,102185,feline bocavirus,VHostDB
+1170234,102738,feline morbillivirus,VHostDB
+1167696,103096,ikoma lyssavirus,VHostDB
+1163709,103341,vulpes vulpes papillomavirus 1,VHostDB
+1163704,103346,nasua sp. papillomavirus 1
+1160949,103887,norovirus cat/giv.2/cu081210e/usa/2010,VHostDB
+1159196,103965,southern elephant seal virus macquarie island
+1159195,103966,southern elephant seal virus,VHostDB
+1157338,104098,canine astrovirus,VHostDB
+1150861,104281,canine picodicistrovirus,VHostDB
+1134411,107024,canine papillomavirus
+1131334,107303,canine astrovirus vm-2011
+1131333,107304,canine astrovirus 1
+1128423,107444,pine marten torque teno virus 1,VHostDB
+1128422,107445,meles meles fecal virus,VHostDB
+1128073,107468,meles meles circovirus-like virus,VHostDB
+1128072,107469,pine marten bocavirus
+1108949,108806,canine bocavirus
+1108810,108831,feline picornavirus,VHostDB
+1105377,108874,norovirus dog/gii.12/262/fin/2009
+1105376,108875,norovirus dog/gii.4/3/fin/2009
+1105375,108876,norovirus dog/gii.4/261/fin/2010
+1105374,108877,norovirus dog/gii.4/1c/fin/2009
+1104917,108936,crocuta crocuta papillomavirus 1,VHostDB
+1093101,110036,gray fox amdovirus
+1091166,111025,canis familiaris papillomavirus 11,VHostDB
+1087109,111476,canis familiaris papillomavirus 10,VHostDB
+1087108,111477,canis familiaris papillomavirus 9,VHostDB
+1082189,111857,canine kobuvirus us-pc0082,VHostDB
+1081055,111910,canis familiaris papillomavirus 8,VHostDB
+1076296,112298,ferret coronavirus 4e98
+1076295,112299,ferret coronavirus 511c
+1073971,112526,california sea lion sapovirus 2
+1073970,112527,california sea lion sapovirus 1
+1073968,112528,california sea lion sapelovirus 2
+1073967,112529,california sea lion sapelovirus 1
+1073965,112531,california sea lion rotavirus 1
+1073964,112532,california sea lion norovirus 1
+1073962,112533,california sea lion bocavirus 4
+1073961,112534,california sea lion bocavirus 3
+1073960,112535,california sea lion bocavirus 2
+1073959,112536,california sea lion bocavirus 1
+1073958,112537,california sea lion astrovirus 9
+1073957,112538,california sea lion astrovirus 8
+1073956,112539,california sea lion astrovirus 7
+1073955,112540,california sea lion astrovirus 6
+1073954,112541,california sea lion astrovirus 5
+1073953,112542,california sea lion astrovirus 4
+1073952,112543,california sea lion astrovirus 11
+1073951,112544,california sea lion astrovirus 10
+1073950,112545,california sea lion adeno-associated virus 1
+1073237,112597,influenza a virus (a/canine/beijing/cau9/2009(h1n1))
+1073236,112598,influenza a virus (a/canine/beijing/cau2/2009(h1n1))
+1071618,112792,influenza a virus (a/mink/iowa/30943/2010(h1n2))
+1055675,113529,influenza a virus (a/canine/jiangsu/06/2010(h3n2))
+1055674,113530,influenza a virus (a/canine/jiangsu/05/2010(h3n2))
+1055673,113531,influenza a virus (a/canine/jiangsu/04/2010(h3n2))
+1055672,113532,influenza a virus (a/canine/jiangsu/03/2010(h3n2))
+1055671,113533,influenza a virus (a/canine/jiangsu/02/2010(h3n2))
+1055670,113534,influenza a virus (a/canine/jiangsu/01/2009(h3n2))
+1054206,113775,influenza a virus (a/canine/guangxi/1/2011(h9n2))
+1052158,114142,feline coronavirus uu54,VHostDB
+1052157,114143,feline coronavirus uu47,VHostDB
+1027946,116983,influenza a virus (a/canine/korea/1/2010(h3n1))
+1009692,117135,canine hepacivirus aak-2011
+1000288,118317,influenza a virus (a/canine/zhejiang/1/2010(h3n2))
+998829,118452,zalophus californianus papillomavirus 1,VHostDB
+997456,118642,influenza a virus (a/mink/nova scotia/1265707/2010(h3n2))
+991022,119451,seal anellovirus tffn/usa/2006,VHostDB
+948591,121489,influenza a virus (a/canine/wyoming/86033/2007(h3n8))
+948590,121490,influenza a virus (a/canine/colorado/3/2006(h3n8))
+948589,121491,influenza a virus (a/canine/colorado/224986/2006(h3n8))
+948588,121492,influenza a virus (a/canine/colorado/148902/2006(h3n8))
+943083,121745,california sea lion adenovirus 1,VHostDB
+932663,122509,otaria flavescens adenovirus spain/2010
+906887,124107,feline coronavirus uu40,VHostDB
+906886,124108,feline coronavirus uu30,VHostDB
+906885,124109,feline coronavirus uu20,VHostDB
+906884,124110,feline coronavirus uu19,VHostDB
+889795,124427,influenza a virus (a/feline/korea/01/2010(h3n2))
+884954,124979,influenza a virus (a/canine/virginia/93653/2009(h3n8))
+884953,124980,influenza a virus (a/canine/statenis/115719/2007(h3n8))
+884952,124981,influenza a virus (a/canine/philadelphia/6371100/2008(h3n8))
+884951,124982,influenza a virus (a/canine/ny/dog9c20/2008(h3n8))
+884950,124983,influenza a virus (a/canine/ny/dog9c19/2008(h3n8))
+884949,124984,influenza a virus (a/canine/ny/dog9c18/2008(h3n8))
+884948,124985,influenza a virus (a/canine/ny/dog9c17/2008(h3n8))
+884947,124986,influenza a virus (a/canine/ny/dog9c16/2008(h3n8))
+884946,124987,influenza a virus (a/canine/ny/dog9c15/2008(h3n8))
+884945,124988,influenza a virus (a/canine/ny/dog9c14/2008(h3n8))
+884944,124989,influenza a virus (a/canine/ny/dog9c13/2008(h3n8))
+884943,124990,influenza a virus (a/canine/ny/dog9c12/2008(h3n8))
+884942,124991,influenza a virus (a/canine/ny/dog9c11/2008(h3n8))
+884941,124992,influenza a virus (a/canine/ny/dog9c10/2008(h3n8))
+884940,124993,influenza a virus (a/canine/ny/dog9c09/2008(h3n8))
+884939,124994,influenza a virus (a/canine/ny/dog9c08/2008(h3n8))
+884938,124995,influenza a virus (a/canine/ny/dog9c07/2008(h3n8))
+884937,124996,influenza a virus (a/canine/ny/dog9c05/2008(h3n8))
+884936,124997,influenza a virus (a/canine/ny/dog9c04/2008(h3n8))
+884935,124998,influenza a virus (a/canine/ny/dog9c03/2008(h3n8))
+884934,124999,influenza a virus (a/canine/ny/dog9c02/2008(h3n8))
+884933,125000,influenza a virus (a/canine/ny/dog9c01/2008(h3n8))
+884932,125001,influenza a virus (a/canine/ny/dog8c20/2008(h3n8))
+884931,125002,influenza a virus (a/canine/ny/dog8c19/2008(h3n8))
+884930,125003,influenza a virus (a/canine/ny/dog8c18/2008(h3n8))
+884929,125004,influenza a virus (a/canine/ny/dog8c17/2008(h3n8))
+884928,125005,influenza a virus (a/canine/ny/dog8c16/2008(h3n8))
+884927,125006,influenza a virus (a/canine/ny/dog8c15/2008(h3n8))
+884926,125007,influenza a virus (a/canine/ny/dog8c14/2008(h3n8))
+884925,125008,influenza a virus (a/canine/ny/dog8c13/2008(h3n8))
+884924,125009,influenza a virus (a/canine/ny/dog8c12/2008(h3n8))
+884923,125010,influenza a virus (a/canine/ny/dog8c11/2008(h3n8))
+884922,125011,influenza a virus (a/canine/ny/dog8c10/2008(h3n8))
+884921,125012,influenza a virus (a/canine/ny/dog8c09/2008(h3n8))
+884920,125013,influenza a virus (a/canine/ny/dog8c08/2008(h3n8))
+884919,125014,influenza a virus (a/canine/ny/dog8c07/2008(h3n8))
+884918,125015,influenza a virus (a/canine/ny/dog8c06/2008(h3n8))
+884917,125016,influenza a virus (a/canine/ny/dog8c05/2008(h3n8))
+884916,125017,influenza a virus (a/canine/ny/dog8c04/2008(h3n8))
+884915,125018,influenza a virus (a/canine/ny/dog8c03/2008(h3n8))
+884914,125019,influenza a virus (a/canine/ny/dog8c02/2008(h3n8))
+884913,125020,influenza a virus (a/canine/ny/dog8c01/2008(h3n8))
+884912,125021,influenza a virus (a/canine/ny/dog7c29/2008(h3n8))
+884911,125022,influenza a virus (a/canine/ny/dog7c27/2008(h3n8))
+884910,125023,influenza a virus (a/canine/ny/dog7c25/2008(h3n8))
+884909,125024,influenza a virus (a/canine/ny/dog7c23/2008(h3n8))
+884908,125025,influenza a virus (a/canine/ny/dog7c21/2008(h3n8))
+884907,125026,influenza a virus (a/canine/ny/dog7c20/2008(h3n8))
+884906,125027,influenza a virus (a/canine/ny/dog7c19/2008(h3n8))
+884905,125028,influenza a virus (a/canine/ny/dog7c18/2008(h3n8))
+884904,125029,influenza a virus (a/canine/ny/dog7c17/2008(h3n8))
+884903,125030,influenza a virus (a/canine/ny/dog7c16/2008(h3n8))
+884902,125031,influenza a virus (a/canine/ny/dog7c15/2008(h3n8))
+884901,125032,influenza a virus (a/canine/ny/dog7c14/2008(h3n8))
+884900,125033,influenza a virus (a/canine/ny/dog7c13/2008(h3n8))
+884899,125034,influenza a virus (a/canine/ny/dog7c12/2008(h3n8))
+884898,125035,influenza a virus (a/canine/ny/dog7c11/2008(h3n8))
+884897,125036,influenza a virus (a/canine/ny/dog7c10/2008(h3n8))
+884896,125037,influenza a virus (a/canine/ny/dog7c09/2008(h3n8))
+884895,125038,influenza a virus (a/canine/ny/dog7c08/2008(h3n8))
+884894,125039,influenza a virus (a/canine/ny/dog7c07/2008(h3n8))
+884893,125040,influenza a virus (a/canine/ny/dog7c06/2008(h3n8))
+884892,125041,influenza a virus (a/canine/ny/dog7c05/2008(h3n8))
+884891,125042,influenza a virus (a/canine/ny/dog7c04/2008(h3n8))
+884890,125043,influenza a virus (a/canine/ny/dog7c03/2008(h3n8))
+884889,125044,influenza a virus (a/canine/ny/dog7c02/2008(h3n8))
+884888,125045,influenza a virus (a/canine/ny/dog7c01/2008(h3n8))
+884887,125046,influenza a virus (a/canine/ny/dog6c34/2009(h3n8))
+884886,125047,influenza a virus (a/canine/ny/dog6c31/2009(h3n8))
+884885,125048,influenza a virus (a/canine/ny/dog6c28/2009(h3n8))
+884884,125049,influenza a virus (a/canine/ny/dog6c27/2009(h3n8))
+884883,125050,influenza a virus (a/canine/ny/dog6c25/2009(h3n8))
+884882,125051,influenza a virus (a/canine/ny/dog6c23/2009(h3n8))
+884881,125052,influenza a virus (a/canine/ny/dog6c22/2009(h3n8))
+884880,125053,influenza a virus (a/canine/ny/dog6c20/2009(h3n8))
+884879,125054,influenza a virus (a/canine/ny/dog6c19/2009(h3n8))
+884878,125055,influenza a virus (a/canine/ny/dog6c18/2009(h3n8))
+884877,125056,influenza a virus (a/canine/ny/dog6c17/2009(h3n8))
+884876,125057,influenza a virus (a/canine/ny/dog6c16/2009(h3n8))
+884875,125058,influenza a virus (a/canine/ny/dog6c15/2009(h3n8))
+884874,125059,influenza a virus (a/canine/ny/dog6c14/2009(h3n8))
+884873,125060,influenza a virus (a/canine/ny/dog6c13/2009(h3n8))
+884872,125061,influenza a virus (a/canine/ny/dog6c12/2009(h3n8))
+884871,125062,influenza a virus (a/canine/ny/dog6c11/2009(h3n8))
+884870,125063,influenza a virus (a/canine/ny/dog6c10/2009(h3n8))
+884869,125064,influenza a virus (a/canine/ny/dog6c09/2009(h3n8))
+884868,125065,influenza a virus (a/canine/ny/dog6c08/2009(h3n8))
+884867,125066,influenza a virus (a/canine/ny/dog6c07/2009(h3n8))
+884866,125067,influenza a virus (a/canine/ny/dog6c06/2009(h3n8))
+884865,125068,influenza a virus (a/canine/ny/dog6c05/2009(h3n8))
+884864,125069,influenza a virus (a/canine/ny/dog6c04/2009(h3n8))
+884863,125070,influenza a virus (a/canine/ny/dog6c03/2009(h3n8))
+884862,125071,influenza a virus (a/canine/ny/dog6c02/2009(h3n8))
+884861,125072,influenza a virus (a/canine/ny/dog5c53/2009(h3n8))
+884860,125073,influenza a virus (a/canine/ny/dog5c50/2009(h3n8))
+884859,125074,influenza a virus (a/canine/ny/dog5c49/2009(h3n8))
+884858,125075,influenza a virus (a/canine/ny/dog5c45/2009(h3n8))
+884857,125076,influenza a virus (a/canine/ny/dog5c44/2009(h3n8))
+884856,125077,influenza a virus (a/canine/ny/dog5c39/2009(h3n8))
+884855,125078,influenza a virus (a/canine/ny/dog5c36/2009(h3n8))
+884854,125079,influenza a virus (a/canine/ny/dog5c35/2009(h3n8))
+884853,125080,influenza a virus (a/canine/ny/dog5c34/2009(h3n8))
+884852,125081,influenza a virus (a/canine/ny/dog5c33/2009(h3n8))
+884851,125082,influenza a virus (a/canine/ny/dog5c31/2009(h3n8))
+884850,125083,influenza a virus (a/canine/ny/dog5c29/2009(h3n8))
+884849,125084,influenza a virus (a/canine/ny/dog5c27/2009(h3n8))
+884848,125085,influenza a virus (a/canine/ny/dog5c26/2009(h3n8))
+884847,125086,influenza a virus (a/canine/ny/dog5c25/2009(h3n8))
+884846,125087,influenza a virus (a/canine/ny/dog5c24/2009(h3n8))
+884845,125088,influenza a virus (a/canine/ny/dog5c22/2009(h3n8))
+884844,125089,influenza a virus (a/canine/ny/dog5c20/2009(h3n8))
+884843,125090,influenza a virus (a/canine/ny/dog5c19/2009(h3n8))
+884842,125091,influenza a virus (a/canine/ny/dog5c18/2009(h3n8))
+884841,125092,influenza a virus (a/canine/ny/dog5c17/2009(h3n8))
+884840,125093,influenza a virus (a/canine/ny/dog5c16/2009(h3n8))
+884839,125094,influenza a virus (a/canine/ny/dog5c15/2009(h3n8))
+884838,125095,influenza a virus (a/canine/ny/dog5c14/2009(h3n8))
+884837,125096,influenza a virus (a/canine/ny/dog5c13/2009(h3n8))
+884836,125097,influenza a virus (a/canine/ny/dog5c12/2009(h3n8))
+884835,125098,influenza a virus (a/canine/ny/dog5c11/2009(h3n8))
+884834,125099,influenza a virus (a/canine/ny/dog5c10/2009(h3n8))
+884833,125100,influenza a virus (a/canine/ny/dog5c09/2009(h3n8))
+884832,125101,influenza a virus (a/canine/ny/dog5c08/2009(h3n8))
+884831,125102,influenza a virus (a/canine/ny/dog5c07/2009(h3n8))
+884830,125103,influenza a virus (a/canine/ny/dog5c06/2009(h3n8))
+884829,125104,influenza a virus (a/canine/ny/dog5c05/2009(h3n8))
+884828,125105,influenza a virus (a/canine/ny/dog5c04/2009(h3n8))
+884827,125106,influenza a virus (a/canine/ny/dog5c03/2009(h3n8))
+884826,125107,influenza a virus (a/canine/ny/dog5c02/2009(h3n8))
+884825,125108,influenza a virus (a/canine/ny/dog5c01/2009(h3n8))
+884824,125109,influenza a virus (a/canine/ny/dog4c7/2009(h3n8))
+884823,125110,influenza a virus (a/canine/ny/dog4c32/2009(h3n8))
+884822,125111,influenza a virus (a/canine/ny/dog4c23/2009(h3n8))
+884821,125112,influenza a virus (a/canine/ny/dog4c20/2009(h3n8))
+884820,125113,influenza a virus (a/canine/ny/dog4c2/2009(h3n8))
+884819,125114,influenza a virus (a/canine/ny/dog4c19/2009(h3n8))
+884818,125115,influenza a virus (a/canine/ny/dog4c18/2009(h3n8))
+884817,125116,influenza a virus (a/canine/ny/dog4c17/2009(h3n8))
+884816,125117,influenza a virus (a/canine/ny/dog4c16/2009(h3n8))
+884815,125118,influenza a virus (a/canine/ny/dog4c15/2009(h3n8))
+884814,125119,influenza a virus (a/canine/ny/dog4c14/2009(h3n8))
+884813,125120,influenza a virus (a/canine/ny/dog4c13/2009(h3n8))
+884812,125121,influenza a virus (a/canine/ny/dog4c12/2009(h3n8))
+884811,125122,influenza a virus (a/canine/ny/dog4c11/2009(h3n8))
+884810,125123,influenza a virus (a/canine/ny/dog4c10/2009(h3n8))
+884809,125124,influenza a virus (a/canine/ny/dog4c1/2009(h3n8))
+884808,125125,influenza a virus (a/canine/ny/dog4c09/2009(h3n8))
+884807,125126,influenza a virus (a/canine/ny/dog4c08/2009(h3n8))
+884806,125127,influenza a virus (a/canine/ny/dog4c07/2009(h3n8))
+884805,125128,influenza a virus (a/canine/ny/dog4c06/2009(h3n8))
+884804,125129,influenza a virus (a/canine/ny/dog4c05/2009(h3n8))
+884803,125130,influenza a virus (a/canine/ny/dog4c04/2009(h3n8))
+884802,125131,influenza a virus (a/canine/ny/dog4c03/2009(h3n8))
+884801,125132,influenza a virus (a/canine/ny/dog4c02/2009(h3n8))
+884800,125133,influenza a virus (a/canine/ny/dog4c01/2009(h3n8))
+884799,125134,influenza a virus (a/canine/ny/dog4/2009(h3n8))
+884798,125135,influenza a virus (a/canine/ny/dog3c40/2009(h3n8))
+884797,125136,influenza a virus (a/canine/ny/dog3c37/2009(h3n8))
+884796,125137,influenza a virus (a/canine/ny/dog3c32/2009(h3n8))
+884795,125138,influenza a virus (a/canine/ny/dog3c31/2009(h3n8))
+884794,125139,influenza a virus (a/canine/ny/dog3c30/2009(h3n8))
+884793,125140,influenza a virus (a/canine/ny/dog3c29/2009(h3n8))
+884792,125141,influenza a virus (a/canine/ny/dog3c28/2009(h3n8))
+884791,125142,influenza a virus (a/canine/ny/dog3c26/2009(h3n8))
+884790,125143,influenza a virus (a/canine/ny/dog3c24/2009(h3n8))
+884789,125144,influenza a virus (a/canine/ny/dog3c20/2009(h3n8))
+884788,125145,influenza a virus (a/canine/ny/dog3c19/2009(h3n8))
+884787,125146,influenza a virus (a/canine/ny/dog3c18/2009(h3n8))
+884786,125147,influenza a virus (a/canine/ny/dog3c17/2009(h3n8))
+884785,125148,influenza a virus (a/canine/ny/dog3c16/2009(h3n8))
+884784,125149,influenza a virus (a/canine/ny/dog3c15/2009(h3n8))
+884783,125150,influenza a virus (a/canine/ny/dog3c14/2009(h3n8))
+884782,125151,influenza a virus (a/canine/ny/dog3c13/2009(h3n8))
+884781,125152,influenza a virus (a/canine/ny/dog3c12/2009(h3n8))
+884780,125153,influenza a virus (a/canine/ny/dog3c11/2009(h3n8))
+884779,125154,influenza a virus (a/canine/ny/dog3c10/2009(h3n8))
+884778,125155,influenza a virus (a/canine/ny/dog3c09/2009(h3n8))
+884777,125156,influenza a virus (a/canine/ny/dog3c08/2009(h3n8))
+884776,125157,influenza a virus (a/canine/ny/dog3c07/2009(h3n8))
+884775,125158,influenza a virus (a/canine/ny/dog3c06/2009(h3n8))
+884774,125159,influenza a virus (a/canine/ny/dog3c05/2009(h3n8))
+884773,125160,influenza a virus (a/canine/ny/dog3c04/2009(h3n8))
+884772,125161,influenza a virus (a/canine/ny/dog3c03/2009(h3n8))
+884771,125162,influenza a virus (a/canine/ny/dog3c02/2009(h3n8))
+884770,125163,influenza a virus (a/canine/ny/dog3c01/2009(h3n8))
+884769,125164,influenza a virus (a/canine/ny/dog2c20/2009(h3n8))
+884768,125165,influenza a virus (a/canine/ny/dog2c19/2009(h3n8))
+884767,125166,influenza a virus (a/canine/ny/dog2c18/2009(h3n8))
+884766,125167,influenza a virus (a/canine/ny/dog2c17/2009(h3n8))
+884765,125168,influenza a virus (a/canine/ny/dog2c16/2009(h3n8))
+884764,125169,influenza a virus (a/canine/ny/dog2c15/2009(h3n8))
+884763,125170,influenza a virus (a/canine/ny/dog2c14/2009(h3n8))
+884762,125171,influenza a virus (a/canine/ny/dog2c13/2009(h3n8))
+884761,125172,influenza a virus (a/canine/ny/dog2c11/2009(h3n8))
+884760,125173,influenza a virus (a/canine/ny/dog2c10/2009(h3n8))
+884759,125174,influenza a virus (a/canine/ny/dog2c09/2009(h3n8))
+884758,125175,influenza a virus (a/canine/ny/dog2c07/2009(h3n8))
+884757,125176,influenza a virus (a/canine/ny/dog2c06/2009(h3n8))
+884756,125177,influenza a virus (a/canine/ny/dog2c05/2009(h3n8))
+884755,125178,influenza a virus (a/canine/ny/dog2c04/2009(h3n8))
+884754,125179,influenza a virus (a/canine/ny/dog2c03/2009(h3n8))
+884753,125180,influenza a virus (a/canine/ny/dog2c02/2009(h3n8))
+884752,125181,influenza a virus (a/canine/ny/dog2c01/2009(h3n8))
+884751,125182,influenza a virus (a/canine/ny/dog23c20/2009(h3n8))
+884750,125183,influenza a virus (a/canine/ny/dog23c19/2009(h3n8))
+884749,125184,influenza a virus (a/canine/ny/dog23c17/2009(h3n8))
+884748,125185,influenza a virus (a/canine/ny/dog23c15/2009(h3n8))
+884747,125186,influenza a virus (a/canine/ny/dog23c13/2009(h3n8))
+884746,125187,influenza a virus (a/canine/ny/dog23c08/2009(h3n8))
+884745,125188,influenza a virus (a/canine/ny/dog23c07/2009(h3n8))
+884744,125189,influenza a virus (a/canine/ny/dog23c06/2009(h3n8))
+884743,125190,influenza a virus (a/canine/ny/dog23c04/2009(h3n8))
+884742,125191,influenza a virus (a/canine/ny/dog23c02/2009(h3n8))
+884741,125192,influenza a virus (a/canine/ny/dog23c01/2009(h3n8))
+884740,125193,influenza a virus (a/canine/ny/dog23/2009(h3n8))
+884739,125194,influenza a virus (a/canine/ny/dog22c20/2009(h3n8))
+884738,125195,influenza a virus (a/canine/ny/dog22c12/2009(h3n8))
+884737,125196,influenza a virus (a/canine/ny/dog21c29/2009(h3n8))
+884736,125197,influenza a virus (a/canine/ny/dog21c24/2009(h3n8))
+884735,125198,influenza a virus (a/canine/ny/dog21c22/2009(h3n8))
+884734,125199,influenza a virus (a/canine/ny/dog21c21/2009(h3n8))
+884733,125200,influenza a virus (a/canine/ny/dog21c19/2009(h3n8))
+884732,125201,influenza a virus (a/canine/ny/dog21c16/2009(h3n8))
+884731,125202,influenza a virus (a/canine/ny/dog21c15/2009(h3n8))
+884730,125203,influenza a virus (a/canine/ny/dog21c14/2009(h3n8))
+884729,125204,influenza a virus (a/canine/ny/dog21c13/2009(h3n8))
+884728,125205,influenza a virus (a/canine/ny/dog21c11/2009(h3n8))
+884727,125206,influenza a virus (a/canine/ny/dog21c10/2009(h3n8))
+884726,125207,influenza a virus (a/canine/ny/dog21c09/2009(h3n8))
+884725,125208,influenza a virus (a/canine/ny/dog21c08/2009(h3n8))
+884724,125209,influenza a virus (a/canine/ny/dog21c07/2009(h3n8))
+884723,125210,influenza a virus (a/canine/ny/dog21c05/2009(h3n8))
+884722,125211,influenza a virus (a/canine/ny/dog21c02/2009(h3n8))
+884721,125212,influenza a virus (a/canine/ny/dog1c42/2009(h3n8))
+884720,125213,influenza a virus (a/canine/ny/dog1c41/2009(h3n8))
+884719,125214,influenza a virus (a/canine/ny/dog1c40/2009(h3n8))
+884718,125215,influenza a virus (a/canine/ny/dog1c38/2009(h3n8))
+884717,125216,influenza a virus (a/canine/ny/dog1c35/2009(h3n8))
+884716,125217,influenza a virus (a/canine/ny/dog1c26/2009(h3n8))
+884715,125218,influenza a virus (a/canine/ny/dog1c20/2009(h3n8))
+884714,125219,influenza a virus (a/canine/ny/dog1c19/2009(h3n8))
+884713,125220,influenza a virus (a/canine/ny/dog1c18/2009(h3n8))
+884712,125221,influenza a virus (a/canine/ny/dog1c17/2009(h3n8))
+884711,125222,influenza a virus (a/canine/ny/dog1c16/2009(h3n8))
+884710,125223,influenza a virus (a/canine/ny/dog1c15/2009(h3n8))
+884709,125224,influenza a virus (a/canine/ny/dog1c14/2009(h3n8))
+884708,125225,influenza a virus (a/canine/ny/dog1c13/2009(h3n8))
+884707,125226,influenza a virus (a/canine/ny/dog1c12/2009(h3n8))
+884706,125227,influenza a virus (a/canine/ny/dog1c11/2009(h3n8))
+884705,125228,influenza a virus (a/canine/ny/dog1c10/2009(h3n8))
+884704,125229,influenza a virus (a/canine/ny/dog1c09/2009(h3n8))
+884703,125230,influenza a virus (a/canine/ny/dog1c08/2009(h3n8))
+884702,125231,influenza a virus (a/canine/ny/dog1c07/2009(h3n8))
+884701,125232,influenza a virus (a/canine/ny/dog1c06/2009(h3n8))
+884700,125233,influenza a virus (a/canine/ny/dog1c05/2009(h3n8))
+884699,125234,influenza a virus (a/canine/ny/dog1c04/2009(h3n8))
+884698,125235,influenza a virus (a/canine/ny/dog1c03/2009(h3n8))
+884697,125236,influenza a virus (a/canine/ny/dog1c02/2009(h3n8))
+884696,125237,influenza a virus (a/canine/ny/dog1c01/2009(h3n8))
+884695,125238,influenza a virus (a/canine/ny/dog1c000003/2009(h3n8))
+884694,125239,influenza a virus (a/canine/ny/4986/2006(h3n8))
+884693,125240,influenza a virus (a/canine/ny/147926/2006(h3n8))
+884691,125241,influenza a virus (a/canine/ny/100528-4/2006(h3n8))
+884690,125242,influenza a virus (a/canine/ny/100525/2006(h3n8))
+884689,125243,influenza a virus (a/canine/colorado/6723-14/2008(h3n8))
+871683,127262,feline coronavirus uu34
+871682,127263,feline coronavirus uu31
+871681,127264,feline coronavirus uu24
+871680,127265,feline coronavirus uu21
+871679,127266,feline coronavirus uu18
+871678,127267,feline coronavirus uu17
+871260,127326,dog astrovirus
+867310,127756,influenza a virus (a/canine/new york/158402-1/2008(h3n8))
+867309,127757,influenza a virus (a/canine/new york/145353/2008(h3n8))
+867308,127758,influenza a virus (a/canine/pennsylvania/137154/2008(h3n8))
+867307,127759,influenza a virus (a/canine/new york/51854/2008(h3n8))
+867304,127762,influenza a virus (a/canine/colorado/6723-8/2008(h3n8))
+867303,127763,influenza a virus (a/canine/pennsylvania/94930-3/2007(h3n8))
+867302,127764,influenza a virus (a/canine/new york/115719/2007(h3n8))
+867301,127765,influenza a virus (a/canine/florida/61156-2/2006(h3n8))
+867299,127767,influenza a virus (a/canine/pennsylvania/10909/2007(h3n8))
+867298,127768,influenza a virus (a/canine/pennsylvania/16699/2007(h3n8))
+867297,127769,influenza a virus (a/canine/kentucky/118778/2006(h3n8))
+867296,127770,influenza a virus (a/canine/new york/147926-5/2006(h3n8))
+867295,127771,influenza a virus (a/canine/new york/147926-3/2006(h3n8))
+867294,127772,influenza a virus (a/canine/new york/100528-6/2006(h3n8))
+867293,127773,influenza a virus (a/canine/new york/100528-5/2006(h3n8))
+867292,127774,influenza a virus (a/canine/new york/100528-1/2006(h3n8))
+867291,127775,influenza a virus (a/canine/new york/100525-1/2006(h3n8))
+867290,127776,influenza a virus (a/canine/florida/89911-2/2006(h3n8))
+867289,127777,influenza a virus (a/canine/florida/78592-7/2006(h3n8))
+867288,127778,influenza a virus (a/canine/florida/78592-6/2006(h3n8))
+867287,127779,influenza a virus (a/canine/florida/78592-2/2006(h3n8))
+867286,127780,influenza a virus (a/canine/california/70645-4/2006(h3n8))
+867285,127781,influenza a virus (a/canine/colorado/17864/2006(h3n8))
+867284,127782,influenza a virus (a/canine/colorado/8880/2006(h3n8))
+867283,127783,influenza a virus (a/canine/new york/4986-2/2006(h3n8))
+867282,127784,influenza a virus (a/canine/new york/5183-6/2006(h3n8))
+867277,127789,influenza a virus (a/canine/new york/115809/2005(h3n8))
+767732,129694,influenza a virus (a/fox sparrow/idaho/ctr-aiv10/2006)
+766792,129877,mink coronavirus strain wd1133,VHostDB
+766791,129878,mink coronavirus strain wd1127,VHostDB
+766192,129897,canine oral papillomavirus (strain y62)
+766189,129900,torque teno canis virus (isolate cf-ttv10)
+766188,129901,torque teno felis virus-fc-ttv4
+748243,133536,canine papillomavirus cel-2010a
+742314,134534,ferret systemic coronavirus
+741336,134752,ferret enteric coronavirus
+727990,134904,ferret systemic coronavirus wadl
+727989,134905,ferret systemic coronavirus msu-s
+727988,134906,ferret enteric coronavirus 1202
+715223,135776,california sea lion polyomavirus 1,VHostDB
+713153,136000,norovirus dog/thessaloniki/30/2008/grc
+711466,136036,feline coronavirus uu23,VHostDB
+711465,136037,feline coronavirus uu22,VHostDB
+709940,136175,influenza a virus (a/canine/florida/14/2006(h3n8))
+707157,136573,influenza a virus (a/canine/guangdong/2/2007(h3n2))
+707156,136574,influenza a virus (a/canine/guangdong/2/2006(h3n2))
+707155,136575,influenza a virus (a/canine/guangdong/1/2007(h3n2))
+707154,136576,influenza a virus (a/canine/guangdong/1/2006(h3n2))
+698334,137778,influenza a virus (a/canine/colorado/30604/2006(h3n8))
+697298,138038,giant panda rotavirus a
+690695,138695,oriental small-clawed otter gammaherpesvirus
+687385,139051,torque teno canis virus,VHostDB
+687384,139052,torque teno felis virus,VHostDB
+685310,139516,influenza a virus (a/canine/korea/lbm412/2008(h3n2))
+682809,140133,norovirus dog/gvi.1/bari/91/2007/ita
+680131,140915,influenza a virus (a/canine/sydney/6692/2007(h3n8))
+680130,140916,influenza a virus (a/canine/sydney/6525/2007(h3n8))
+679171,141182,harbor seal coronavirus 1
+673458,141771,norovirus dog/gvi.1/hku_ca035f/2007/hkg
+673457,141772,norovirus dog/gvi.1/hku_ca026f/2007/hkg
+673374,141825,norovirus dog/c33/viseu/2007/prt
+658423,143987,canine papillomavirus 7,VHostDB
+658422,143988,canis familiaris papillomavirus 5,VHostDB
+655222,144795,feline sarcoid-associated papillomavirus
+653694,145126,influenza a virus (a/canine/pennsylvania/10915/2007(h3n8))
+646302,146057,influenza a virus (a/mink/sweden/3900/1984(h10n4))
+645429,146217,steller sea lion astrovirus 1
+645428,146218,california sea lion astrovirus 3
+645427,146219,california sea lion astrovirus 2,VHostDB
+645426,146220,california sea lion astrovirus 1
+627436,147470,feline coronavirus uu9,VHostDB
+627435,147471,feline coronavirus uu8,VHostDB
+627434,147472,feline coronavirus uu16,VHostDB
+627433,147473,feline coronavirus uu15,VHostDB
+627432,147474,feline coronavirus uu11,VHostDB
+627431,147475,feline coronavirus uu10,VHostDB
+584660,149296,influenza a virus (a/canine/korea/01/2007(h3n2))
+580061,149549,feline poxvirus ita2_bc
+580060,149550,feline poxvirus ita1_pg
+568986,150643,canine parvovirus 2b,VHostDB
+568209,150766,feline papillomavirus type 2
+565304,151051,feline panleukopenia virus monkey/bj-22/2008/chn
+565053,151084,feline papillomavirus fap3
+560626,151425,canine rotavirus rv52/96
+560613,151426,canine rotavirus rv198/95
+557243,151651,feline rotavirus cat2/g3p[9]
+557242,151652,feline rotavirus cat97/g3p[3]
+557241,151653,canine rotavirus a79-10/g3p[3]
+557232,151654,canine rotavirus k9
+547903,152619,influenza a virus (a/mink/sweden/v907/2006(h5n1))
+544789,153036,canine parvovirus 2c
+542563,153442,influenza a virus (a/mink/nova scotia/1055488/2007(h3n2))
+538123,153871,mammalian orthoreovirus 3,VHostDB
+531332,154873,blue fox parvovirus tai`an
+529075,155394,influenza a virus (a/canine/miami/2005(h3n8))
+529074,155395,influenza a virus (a/canine/jacksonville/2005(h3n8))
+502101,159964,feline coronavirus uu2,VHostDB
+502100,159965,feline coronavirus rm,VHostDB
+497961,160676,canine parvovirus 2a,VHostDB
+485720,161645,norovirus dog/170/07/ita
+471728,163019,seal picornavirus type 1,VHostDB
+466141,163776,influenza a virus (a/canine/korea/gcvp01/2007(h3n2))
+464980,163843,canis familiaris papillomavirus 4,VHostDB
+461322,164627,ursus maritimus papillomavirus 1,VHostDB
+454955,165705,feline coronavirus uu7,VHostDB
+454953,165706,feline coronavirus uu5,VHostDB
+454952,165707,feline coronavirus uu4,VHostDB
+454951,165708,feline coronavirus uu3,VHostDB
+448066,166164,norovirus lion/giv.2/pistoia/387/06/ita
+441979,166848,chinese ferret badger coronavirus guangxi/f250/2006
+441978,166849,chinese ferret badger coronavirus guangxi/f247/2006
+441976,166851,asian leopard cat coronavirus guangxi/f230/2006
+441619,166856,canine coronavirus bgf10
+436911,167732,steller sea lion vesivirus,VHostDB
+434615,167875,chinese ferret badger coronavirus dm95/2003
+434614,167876,raccoon dog coronavirus gz43/2003
+430702,168135,feline multicentric squamous cell carcinoma papillomavirus
+400834,171436,influenza a virus (a/feline/indonesia/cdc1/2006(h5n1))
+397368,171759,panthera leo gammaherpesvirus 1
+397367,171760,crocuta crocuta gammaherpesvirus 1
+382839,173304,influenza a virus (a/mink/sweden/1984(h10n4))
+366619,174724,ferret enteric coronavirus msu1
+360721,175162,san miguel sea lion virus 5
+360397,175171,canis familiaris papillomavirus 3,VHostDB
+358127,175265,sea lion parapoxvirus 3
+358126,175266,sea lion parapoxvirus 2
+358125,175267,harbor seal parapoxvirus 2
+358124,175268,harbor seal parapoxvirus 1
+358123,175269,grey seal parapoxvirus 1
+348686,176314,uncia uncia papillomavirus type 1,VHostDB
+347013,176476,sea lion parapoxvirus 1
+345584,176519,influenza a virus (a/canine/iowa/13628/2005(h3n8))
+345308,176521,northern elephant seal herpesvirus
+336801,177209,influenza a virus (a/canine/texas/1/2004(h3n8))
+336793,177216,influenza a virus (a/canine/florida/242/2003(h3n8))
+336792,177217,influenza a virus (a/canine/florida/43/2004(h3n8))
+333743,177541,hawaiian monk seal herpesvirus
+329639,177823,canine minute virus,VHostDB
+323366,178263,panthera leo persica papillomavirus type 1,VHostDB
+323365,178264,puma concolor papillomavirus type 1,VHostDB
+323364,178265,lynx rufus papillomavirus type 1,VHostDB
+322593,178302,canine coronavirus isolate nj17
+319747,178578,steller sea lion parapoxvirus
+319746,178579,harbor seal parapoxvirus
+312349,178718,procyon lotor papillomavirus 1,VHostDB
+301047,179478,canine coronavirus 1-71
+292792,179791,canis familiaris papillomavirus 2,VHostDB
+292349,179816,feline calicivirus (strain urbana)
+292348,179817,canine calicivirus (strain 48)
+289357,179988,lion lentivirus
+274042,180686,thailand genotype 1 dog lyssavirus
+263509,181236,acinonyx jubatus coronavirus
+260069,181414,sars coronavirus hc/sz/61/03,VHostDB
+252468,181656,steller sea lion poxvirus
+246878,181784,canine parvovirus 2
+222742,182730,influenza a virus (a/mink/sweden/e12665/84(h10n4))
+215681,183158,canine respiratory coronavirus,VHostDB
+188524,184233,felis domesticus papillomavirus type 1,VHostDB
+187984,184238,seal parapoxvirus,VHostDB
+186174,184325,mink enteritis virus strain beregovoy
+170325,185061,canid alphaherpesvirus 1,VHostDB
+154122,185813,mink calicivirus,VHostDB
+154121,185814,mink enteric sapovirus
+149595,185956,canine parainfluenza virus
+146073,186084,walrus calicivirus,VHostDB
+114408,186975,feline adenovirus
+107236,187167,california sea lion herpesvirus
+103919,187282,feline leukemia virus strain c/sarma
+103918,187283,feline leukemia virus strain c/fs246
+103917,187284,feline leukemia virus strain c/fa27
+103916,187285,feline leukemia virus strain b/lambda-b1
+101357,187342,canine rotavirus cu-1
+85616,187654,san miguel sea lion virus 13
+85615,187655,san miguel sea lion virus 6
+85614,187656,san miguel sea lion virus 2
+82828,187707,canine distemper virus strain convac vaccine
+82827,187708,canine distemper virus strain a92-6
+82826,187709,canine distemper virus strain a92-27/4
+74724,187859,canine vesivirus,VHostDB
+69152,188069,canine adenovirus 2 strain toronto a 26-61
+69151,188070,canine adenovirus 1 strain ri261
+69150,188071,canine adenovirus 1 strain cll
+59284,188527,canine parvovirus strain b
+53182,188620,feline foamy virus,VHostDB
+45409,188819,feline immunodeficiency virus (isolate wo)
+39746,189041,hardy-zuckerman feline sarcoma virus
+39010,189095,feline rotavirus frv-64
+39009,189096,feline rotavirus frv-1/g3
+37132,189200,rabies virus ontario fox
+36407,189256,san miguel sea lion virus 4
+36406,189257,san miguel sea lion virus 1
+36391,189269,canine enteric coronavirus insavc-1
+36373,189284,feline immunodeficiency virus (strain ut-113)
+36372,189285,feline immunodeficiency virus (strain uk8)
+36371,189286,feline immunodeficiency virus (strain uk2)
+36364,189290,canine adenovirus 1 strain utrecht
+36362,189292,polyomavirus sp.,VHostDB
+35337,189334,canine rotavirus
+35258,189398,lambdapapillomavirus 2,VHostDB
+33733,189450,feline enteric coronavirus (strain 79-1683)
+33732,189451,canine enteric coronavirus k378
+32616,189490,puma lentivirus 21
+32615,189491,puma lentivirus 14
+31676,189580,feline immunodeficiency virus (isolate tm2)
+31564,189672,feline rotavirus a
+28314,189763,aleutian mink disease virus,VHostDB
+12804,189797,puma lentivirus
+12663,189810,feline coronavirus,VHostDB
+11981,190214,feline calicivirus strain f9
+11980,190215,feline calicivirus strain japanese f4
+11979,190216,feline calicivirus strain cfi/68 fiv
+11978,190217,feline calicivirus,VHostDB
+11923,190246,feline leukemia provirus ftt
+11922,190247,feline leukemia provirus (clone cfe-6)
+11921,190248,feline leukemia provirus (clone cfe-16)
+11834,190307,rd114 retrovirus,VHostDB
+11824,190313,gardner-arnstein feline leukemia oncovirus b
+11785,190347,mink cell focus-forming virus
+11784,190348,rauscher mink cell focus-forming virus
+11783,190349,friend mink cell focus-forming virus
+11780,190350,snyder-theilen feline sarcoma virus
+11779,190351,feline sarcoma virus (strain sm)
+11778,190352,feline sarcoma virus (strain mcdonough)
+11777,190353,feline sarcoma virus (strain hardy-zuckerman 4)
+11776,190354,feline sarcoma virus (strain hardy-zuckerman 2)
+11775,190355,feline sarcoma virus (strain gardner-rasheed)
+11774,190356,gardner-arnstein feline sarcoma virus
+11772,190357,feline sarcoma virus
+11769,190358,feline leukemia virus strain a/glasgow-1
+11768,190359,feline leukemia virus,VHostDB
+11767,190360,feline endogenous virus rd114
+11766,190361,feline endogenous virus ece1
+11765,190362,feline endogenous virus
+11675,190438,feline immunodeficiency virus (isolate san diego)
+11674,190439,feline immunodeficiency virus (isolate petaluma)
+11673,190440,feline immunodeficiency virus,VHostDB
+11655,190457,feline lentivirus group
+11240,190638,phocine morbillivirus,VHostDB
+11233,190645,canine distemper virus strain onderstepoort
+11232,190646,canine morbillivirus,VHostDB
+11153,190706,canine coronavirus
+11135,190721,feline infectious peritonitis virus,VHostDB
+10921,190899,feline rotavirus
+10793,190998,mink enteritis virus strain abashiri
+10792,190999,mink enteritis virus
+10791,191000,canine parvovirus strain n
+10790,191001,canine parvovirus strain cpv-d cornell 320
+10789,191002,canine parvovirus strain 780929
+10788,191003,canine parvovirus,VHostDB
+10787,191004,feline panleukopenia virus (strain 193)
+10786,191005,feline panleukopenia virus,VHostDB
+10785,191006,feline parvovirus
+10783,191008,aleutian mink disease parvovirus (strain g)
+10537,191178,canine mastadenovirus a,VHostDB
+10514,191192,canine adenovirus 2,VHostDB
+10513,191193,canine adenovirus 1 strain glaxo
+10512,191194,canine adenovirus 1,VHostDB
+10385,191281,bovine gammaherpesvirus 4,VHostDB
+10334,191320,felid alphaherpesvirus 1,VHostDB
+10256,191390,raccoonpox virus,VHostDB
